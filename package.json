@@ -2,7 +2,7 @@
   "name": "tns-core-modules",
   "description": "Telerik NativeScript Core Modules",
   "version": "1.6.0",
-  "homepage":"https://www.nativescript.org",
+  "homepage": "https://www.nativescript.org",
   "repository": {
     "type": "git",
     "url": "https://github.com/NativeScript/NativeScript"
@@ -38,7 +38,8 @@
   },
   "typings": "tns-core-modules.d.ts",
   "dependencies": {
-    "tns-core-modules-widgets": "1.6.0"
+    "tns-core-modules-widgets": "1.6.0",
+    "source-map-resolve": "0.5.0"
   },
   "nativescript": {
     "platforms": {
